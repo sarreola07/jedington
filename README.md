@@ -1,6 +1,6 @@
 👋 [Hello There!](https://www.youtube.com/watch?v=rEq1Z0bjdwc)
 
-- 🔭 Currently working on [MSSA classwork](https://github.com/jedington/MSSA.Assignments) and [a personal project](https://github.com/jedington/Canvas-Your-Goals).
+- 🔭 Currently working on [a personal project](https://github.com/jedington/Canvas-Your-Goals) and [fixing this old site](https://arcanicvoid.com).
 - 🌱 Currently learning C#, C++, Java, JS & expanding knowledge in Cloud platforms.
 - :sunrise: Open to collaborate where I can help effectively; current collab: [MSSABlog](https://github.com/mssablog/mssablog.github.io).
 - :cookie: My interests: web development/design, video game modding & emulators, WordPress, and music.
