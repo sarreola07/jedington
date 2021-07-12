@@ -1,9 +1,9 @@
 👋 [Hello There!](https://www.youtube.com/watch?v=rEq1Z0bjdwc)
 
 - 🔭 Currently working on [a personal project](https://github.com/jedington/Canvas-Your-Goals), fixing [this old site](https://arcanicvoid.com), and school with WGU.
-- 🌱 Currently learning/expanding in: JS, Python, RHE Linux, and Ansible.
+- 🌱 Currently learning/expanding in: JS, Python, RHE Linux, Ansible, Terraform.
 - :sunrise: Open to collaborate where I can help effectively; current collab: [MSSABlog](https://github.com/mssablog/mssablog.github.io).
-- :cookie: My interests: web development/design, video game modding & emulators, WordPress, and music.
+- :cookie: My interests are: automation, web development, video game modding & emulators, WordPress.
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Twitter][twitter-shield]][twitter-url]
